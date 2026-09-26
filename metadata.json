@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank - Trợ Lý Khách Hàng Tại Quầy",
+  "description": "Ứng dụng web tương tác với khách hàng tại quầy giao dịch VietinBank: Giải đáp thắc mắc iPay, Tải App, Mini game, Tính lãi tiền gửi, Lịch trả nợ và Điểm giao dịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
